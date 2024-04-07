@@ -10,6 +10,7 @@
 
 # What is WindowsGSM?
 WindowsGSM is a powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
+This fork was only made to merge changes not officially done on the official repo. This is only intended to be a personal build/project, and I recommend using the official repo.
 
 |               | 🎮 Game Server  | Supported | Query |
 | ------------- | --------------- | --------- | ----- |
